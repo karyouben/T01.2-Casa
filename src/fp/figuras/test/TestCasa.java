@@ -11,6 +11,7 @@ public class TestCasa {
 		
 		c.setBlancoYNegro();
 		c.setColor();
+		//hola
 	}
 
 }
