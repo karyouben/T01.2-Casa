@@ -12,7 +12,7 @@ public class TestCasa {
 		c.dibujar();
 		
 		c.setBlancoYNegro();
-		//hola
+		
 	}
 
 }
