@@ -60,7 +60,7 @@ public class CasaImpl implements Casa {
             pared.cambiarColor("black");
             ventana.cambiarColor("white");
             tejado.cambiarColor("black");
-            sol.cambiarColor("black");
+            sol.cambiarColor("white");
     }
 
     /* (non-Javadoc)

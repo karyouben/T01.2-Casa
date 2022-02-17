@@ -2,6 +2,8 @@ package fp.figuras.test;
 
 import fp.figuras.Casa;
 import fp.figuras.CasaImpl;
+import fp.figuras.Circulo;
+import fp.figuras.CirculoImpl;
 
 public class TestCasa {
 
@@ -10,7 +12,6 @@ public class TestCasa {
 		c.dibujar();
 		
 		c.setBlancoYNegro();
-		c.setColor();
 		//hola
 	}
 
